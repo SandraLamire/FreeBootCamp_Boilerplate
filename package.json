@@ -1,6 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Sandra Lamiré",
+	"description": "Training backEnd JS - Package json",
+	"keywords": [ "Taining", "javaScript", "dev" ],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
+		"@freecodecamp/example": "~1.2.13",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
@@ -10,7 +16,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	"author": "Sandra Lamiré"
+	}
 }
 
